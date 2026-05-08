@@ -1,4 +1,4 @@
-const api = "/notes";
+const api = "http://localhost:5000/notes";
 
 /* FETCH NOTES */
 async function fetchNotes() {
